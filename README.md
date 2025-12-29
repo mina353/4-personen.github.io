@@ -244,12 +244,12 @@
 </p>
  <p class="animate-on-scroll"></p>
  <span class="extra-space1"></span>
- <p class="animate-on-scroll">Ihre ganze Familie sind herzlich eingeladen.</p>
+ <p class="animate-on-scroll">Sie sind herzlich eingeladen, die Einladung gilt für 4 Personen.</p>
  <span class="extra-space1"></span>
  <span class="extra-space1"></span>
  <p class="animate-on-scroll persian-line">‎به نام خالق عشق
 ‎با افتخار دعوتتان می‌کنیم تا در جشن ازدواجمان حضور یابید. ‎لطفا تا اوایل ماه فبروری حضورتان را در جشن عروسی به ما اطلاع دهید.</p>
- <p class="animate-on-scroll persian-line">‎(به همرای فامیل )</p>
+ <p class="animate-on-scroll persian-line">‎(۴ نفر)</p>
     </section>
 
 
